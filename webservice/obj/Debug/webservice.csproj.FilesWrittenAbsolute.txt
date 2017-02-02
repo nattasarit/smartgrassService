@@ -1,0 +1,12 @@
+/Users/Nattasarit/Projects/Hello/Hello/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Nattasarit/Projects/Hello/Hello/bin/Hello.dll.mdb
+/Users/Nattasarit/Projects/Hello/Hello/bin/Hello.dll
+/Users/Nattasarit/Projects/Hello/Hello/obj/Debug/Hello.dll
+/Users/Nattasarit/Projects/Hello/Hello/obj/Debug/Hello.dll.mdb
+/Users/Nattasarit/Projects/Hello/Hello/bin/MySql.Data.dll
+/Users/Nattasarit/Projects/Hello/webservice/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Nattasarit/Projects/Hello/webservice/bin/Hello.dll.mdb
+/Users/Nattasarit/Projects/Hello/webservice/bin/Hello.dll
+/Users/Nattasarit/Projects/Hello/webservice/obj/Debug/Hello.dll
+/Users/Nattasarit/Projects/Hello/webservice/obj/Debug/Hello.dll.mdb
+/Users/Nattasarit/Projects/Hello/webservice/bin/MySql.Data.dll
