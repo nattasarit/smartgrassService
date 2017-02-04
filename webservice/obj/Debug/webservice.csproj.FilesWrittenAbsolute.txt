@@ -10,3 +10,9 @@
 /Users/Nattasarit/Projects/Hello/webservice/obj/Debug/Hello.dll
 /Users/Nattasarit/Projects/Hello/webservice/obj/Debug/Hello.dll.mdb
 /Users/Nattasarit/Projects/Hello/webservice/bin/MySql.Data.dll
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/bin/Hello.dll.mdb
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/bin/Hello.dll
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Debug/Hello.dll
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Debug/Hello.dll.mdb
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/bin/MySql.Data.dll
