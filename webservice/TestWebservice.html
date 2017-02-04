@@ -27,6 +27,7 @@
 					//data: "{grassid:'GR04'}",
 					//contentType: "application/json; charset=utf-8",
     			}).then(function(data) {
+					console.log("data = ",data);
        				$('.greeting-id').append(data.id);
        				$('.greeting-content').append(data.name);
     			});
