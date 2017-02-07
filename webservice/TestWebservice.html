@@ -12,7 +12,10 @@
 
 			    $.ajax({
 					type: "POST",
-        			url: "http://127.0.0.1:8080/smartgrass.asmx/TEST",
+				    
+        			url: "http://www.smartgrass.somee.com/smartgrass.asmx/TEST",
+        			dataType: 'jsonp',
+					cache: false,
 					//data: "{grassid:'GR04'}",
 					//contentType: "application/json; charset=utf-8",
     			}).then(function(data) {
@@ -23,7 +26,9 @@
 
 			    $.ajax({
 					type: "POST",
-        			url: "http://127.0.0.1:8080/smartgrass.asmx/getGrassDetail",
+        			url: "http://www.smartgrass.somee.com/smartgrass.asmx/getGrassDetail",
+        			dataType: 'jsonp',
+					cache: false,
 					//data: "{grassid:'GR04'}",
 					//contentType: "application/json; charset=utf-8",
     			}).then(function(data) {

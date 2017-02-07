@@ -17,3 +17,4 @@
 /Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Debug/Hello.dll.mdb
 /Users/Nattasarit/Documents/GIT/smartgrassService/webservice/bin/MySql.Data.dll
 /Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs

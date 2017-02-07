@@ -1,0 +1,4 @@
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Release/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/bin/Hello.dll
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/obj/Release/Hello.dll
+/Users/Nattasarit/Documents/GIT/smartgrassService/webservice/bin/MySql.Data.dll

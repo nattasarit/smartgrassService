@@ -1,13 +1,25 @@
 ﻿<Properties StartupConfiguration="{72F84D50-4237-4F1F-9D48-118DEBFE5076}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="webservice/TestWebservice.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webservice/smartgrass.asmx.cs">
     <Files>
       <File FileName="webservice/smartgrass.asmx" Line="1" Column="1" />
-      <File FileName="webservice/smartgrass.asmx.cs" Line="39" Column="56" />
-      <File FileName="webservice/Web.config" Line="12" Column="95" />
-      <File FileName="webservice/TestWebservice.html" Line="35" Column="7" />
+      <File FileName="webservice/smartgrass.asmx.cs" Line="25" Column="48" />
+      <File FileName="webservice/Web.config" Line="1" Column="1" />
+      <File FileName="webservice/TestWebservice.html" Line="31" Column="6" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webservice" expanded="True">
+            <Node name="webservice" expanded="True">
+              <Node name="References" expanded="True" selected="True" />
+              <Node name="smartgrass.asmx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

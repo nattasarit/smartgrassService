@@ -12,19 +12,6 @@ namespace webservice
 	{
 		string connString = System.Configuration.ConfigurationManager.ConnectionStrings["MySqlServerConnectionString"].ConnectionString;
 
-		[WebService(Namespace = "http://tempuri.org/")]
-		[WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
-
-		public class CustomerWebService : System.Web.Services.WebService
-		{
-			[WebMethod]
-			public string getGrassDetail()
-			{
-				return "ID.CUSTOMER";
-			}
-		}
-
-
 		[WebMethod]
 		public void TEST()
 		{
@@ -59,6 +46,7 @@ namespace webservice
 			//get grass detail
 			HttpContext.Current.Response.Write("{ID: '"+ id +"', Name: '"+ name +"'}");
 		}
+
 
 	}
 }
